@@ -73,15 +73,15 @@ Watch the gameplay demonstration here:
 ## 🎮 Gameplay
 
 <p align="center">
-    <img src="Images/Gameplay.png" width="850">
+    <img src="Images/explosion.png" width="850">
 </p>
 
 ---
 
-## 💥 Combat
+## Gameover Screen
 
 <p align="center">
-    <img src="Images/Combat.png" width="850">
+    <img src="Images/game_over_screen.png" width="850">
 </p>
 
 ---
@@ -89,7 +89,7 @@ Watch the gameplay demonstration here:
 ## ☄️ Enemy Wave
 
 <p align="center">
-    <img src="Images/EnemyWave.png" width="850">
+    <img src="Images/enemyWave.png" width="850">
 </p>
 
 ---
